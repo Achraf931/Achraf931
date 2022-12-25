@@ -1,9 +1,5 @@
 # Hello 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Achraf931/Achraf931/blob/main/assets/208593.gif">
-</div>
-
 </br>
 </br>
 </br>
