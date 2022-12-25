@@ -9,26 +9,36 @@
 # About ME 💬 :
 
 ### - Dev :
-- ✨ VueJS/NuxtJS (Version 2 & 3)
-- ✨ Laravel (Livewire)
-- ✨ Strapi
-- ✨ TailwindCSS
-- ✨ Storybook
-- ✨ Typescript
-- ✨ Agile Scrum
-- ✨ Git
+<div>
+ ✨ VueJS/NuxtJS (Version 2 & 3)
+✨ Laravel (Livewire)
+✨ Strapi
+ ✨ TailwindCSS
+✨ Storybook
+ ✨ Typescript
+ ✨ Agile Scrum
+ ✨ Git
+ </div>
 
-### - Design :
-- ✨ InDesign
-- ✨ Photoshop
-- ✨ Illustrator
-- ✨ Adobe XD
-- ✨ Figma
+<br/>
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Manga
+ ### - Design :
+<div align="center">
+✨ InDesign
+✨ Photoshop
+✨ Illustrator
+✨ Adobe XD
+✨ Figma
+ </div>
+
+<br/>
+
+ ### - Hobbies : 
+<div align="center">
+✨ Gaming Addict
+✨ Watching Anime
+✨ Reading Manga
+ </div>
 </br>
 </br>
 </br>
