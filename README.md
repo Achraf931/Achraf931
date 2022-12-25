@@ -1,11 +1,12 @@
-# Hello 👋
+<h1 align="center">
+ Hello 👋, i'm Charfeddine Hamrouni
+</h1>
 
+<h2 align="center">
+ A passionnate Front-End Developper from France.
+</h2>
 
 # About ME 💬 :
-
-### - I'm Charfeddine Hamrouni, a passionnate Front-End Developper from France.
-
-
 
 ### - Dev :
 - ✨ VueJS/NuxtJS (Version 2 & 3)
