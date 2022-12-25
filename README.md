@@ -13,7 +13,7 @@
 
 ### - I'm Charfeddine Hamrouni, a passionnate Front-End Developper from France.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Achraf931/Achraf931/blob/main/assets/1936.gif">
+
 
 ### - Dev :
 - ✨ VueJS/NuxtJS (Version 2 & 3)
@@ -36,7 +36,6 @@
 - ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Manga
-
 </br>
 </br>
 </br>
@@ -49,15 +48,14 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/vue.svg" alt="VueJS" width="180" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/html.svg" alt="HTML" width="180" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/css3.svg" alt="CSS3" width="180" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/js.svg" alt="JS" width="180" hight="50">
-</br>
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/php.svg" alt="PHP" width="100" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/sass.svg" alt="SASS" width="180" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/laravel.svg" alt="Laravel" width="180" hight="50">
-<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/npm.svg" alt="Npm" width="180" hight="50">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/vue.svg" alt="VueJS" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/html.svg" alt="HTML" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/css3.svg" alt="CSS3" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/js.svg" alt="JS" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/php.svg" alt="PHP" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/sass.svg" alt="SASS" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/laravel.svg" alt="Laravel" height="35">
+<img src="https://github.com/Achraf931/Achraf931/blob/main/assets/icons/npm.svg" alt="Npm" height="35">
 </p>
 </br>
 </br>
