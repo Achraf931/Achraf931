@@ -1,8 +1,6 @@
 # Hello 👋
 
 </br>
-</br>
-</br>
 
 
 # About ME 💬 :
